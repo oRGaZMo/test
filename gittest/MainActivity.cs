@@ -29,7 +29,6 @@ namespace gittest
 				button.Text = string.Format ("{0} clicks!", count++);
 			};
 
-			// test for git
 
 		}
 	}
